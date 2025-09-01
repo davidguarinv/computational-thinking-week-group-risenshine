@@ -1,1 +1,4 @@
-print("David")
+def david ():
+    print("David")
+    
+david()
