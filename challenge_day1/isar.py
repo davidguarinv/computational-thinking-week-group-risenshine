@@ -1,6 +1,7 @@
 def name():
     return "Isar"
 
+#Marcus 
 def act1():
     return "In the distance, a figure watched them silently. Elliot, a young apprentise watchmaker, hid behind a corneer, scribbling notes in a small book. He felt uneasy about strangers aproaching the clocktower, knowing the stories weren’t just legends."
 
