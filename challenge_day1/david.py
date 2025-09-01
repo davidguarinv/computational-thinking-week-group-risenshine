@@ -1,4 +1,4 @@
 def david ():
-    print("David")
+    return ("David")
     
 david()
