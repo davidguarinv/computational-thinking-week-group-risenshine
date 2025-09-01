@@ -7,5 +7,6 @@ def team_intro():
     print(isar.name())
     print(david.david())
     print(norina.norina())
+    print(pija.name())
 
 team_intro()
