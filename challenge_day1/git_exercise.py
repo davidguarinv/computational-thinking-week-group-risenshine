@@ -1,4 +1,4 @@
-import david, isar, pija,norina, karolina
+import david, isar, pija, norina, karolina
 team_name = "RiseNShine"
 
 
