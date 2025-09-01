@@ -17,3 +17,22 @@ team_intro()
 ## Below is the bonus challenge 
 ## three acts 1 paragraph each person per act, work with a partner and fix spelling mistakes
 
+def story():
+    print("\nOur story begins...\n")
+    print(pija.act1())
+    print(karolina.act1())
+    print(norina.act1())
+    print(david.act1())
+    print(isar.act1())
+    print("\nThe story continues...\n")
+    print(pija.act2())
+    print(karolina.act2())
+    print(norina.act2())
+    print(david.act2())
+    print(isar.act2())
+    print("\nThe story concludes...\n")
+    print(pija.act2())
+    print(karolina.act2())
+    print(norina.act2())
+    print(david.act2())
+    print(isar.act2())
