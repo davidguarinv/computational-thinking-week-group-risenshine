@@ -1,0 +1,10 @@
+import david, isar
+team_name = "RiseNShine"
+
+
+def team_intro():
+    print(f"This is team {team_name}, we are:")
+    print(isar.name())
+    print(david.david())
+
+team_intro()
