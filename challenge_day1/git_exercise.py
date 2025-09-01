@@ -1,4 +1,4 @@
-import david, isar, pija, norina, karolina
+import david, isar, pija,  norina, karolina
 team_name = "RiseNShine"
 
 
@@ -7,8 +7,9 @@ def team_intro():
     print(isar.name())
     print(david.david())
     print(karolina.karolina())
-    print(norina.norina())()
+    print(norina.norina())
     print(pija.name())
+
 
 
 team_intro()
