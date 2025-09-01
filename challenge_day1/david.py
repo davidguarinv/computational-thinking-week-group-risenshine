@@ -11,4 +11,3 @@ def act2():
 
 def act3():
     return "Together, the six friends worked quickly, adjusting gears, pulling levers, and aligning strange inscripshions. Sweat dripped down thier faces as the clocktower seemed to come alife. Jace, surprisingly, whispered, “Okay… this is actualy kinda cool.”"
-
