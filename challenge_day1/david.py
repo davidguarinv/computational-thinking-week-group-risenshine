@@ -2,9 +2,9 @@ def david ():
     return ("David")
     
 david()
-
+# Jace
 def act1():
-    return "Meanwhile, Oliver, a mischievous stray dog, ran circles around the group, barking at shadows. He seemed to know something about the town, as if he had a secret mission of his own. Lila laughed, deciding he would be their unofficial pet guide."
+    return "Elliot jotted a note about Oliver’s behavior, Tessa insisted even dogs sometimes sensed history, and Marcus laughed so hard he almost dropped his basket again. Jace leaned against the wall, pretending not to care, but Lila caught his curious glance toward the dog. Meanwhile, Oliver, a mischievous stray dog, ran circles around the group, barking at shadows. He seemed to know something about the town, as if he had a secret mission of his own. Lila laughed, deciding he would be their unofficial pet guide."
 
 def act2():
     return "Marcus tried to take a closer look but slipped, nearly falling into a hidden pit. Jace grabbed his arm, shouting, “Careful! This place is a death trap!” Tessa scribbled furiously in her papers, trying to make sense of the chaotic scene."

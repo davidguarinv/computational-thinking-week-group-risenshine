@@ -2,10 +2,10 @@ def norina():
     return "norina"
 
 norina()
-
+#Oliver
 def act1():
     return (
-        "Tessa, the town historian, joined them quickly, shuffling papers and muttering to herself. "
+        "Jace teased Marcus about his clumsiness while Oliver chased after a runaway loaf, and Elliot awkwardly adjusted his spectacles. Tessa frowned at the chaos, but Lila smiled, grateful all six of them were now somehow in this together. Tessa, the town historian, joined them quickly, shuffling papers and muttering to herself. "
         "“The clocktower has secrets… secrets that no one has solved,” she said, glancing nervously at the shadowed streets. "
         "Jace rolled his eyes, already bored."
     )
