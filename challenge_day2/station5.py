@@ -1,4 +1,4 @@
-def solution_station5(name: str) -> str:
+def solution_station_5(name: str) -> int:
     LT_groups = {
         "LT1": ["Daeho", "David G", "Kaisa", "Oliver", "Sara", "Dan", "Ivar", "Lotte", 
                 "Riya", "Vassil", "Twan", "Ester", "Karolina", "Lena", "Margarita", 
@@ -20,6 +20,5 @@ def solution_station5(name: str) -> str:
 
     for group, names in LT_groups.items():
         if name in names:
-            return group
-    return "Not found"
-
+            return int(group[2:])
+    return -1
