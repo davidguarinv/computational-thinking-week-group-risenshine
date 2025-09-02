@@ -1,5 +1,5 @@
 
-def solution_station_4():
+def solution_station_4(x):
     if x <= 1:
         return False
     if x == 2:
