@@ -1,4 +1,4 @@
-def solution_station6(x: float) -> float:
+def solution_station_6(x: float) -> float:
     y = (0.0383238 * x**4
          - 0.24111 * x**3
          + 0.070717 * x**2

@@ -1,2 +1,2 @@
-def solution_station3(n: int)  -> bool: 
+def solution_station_3(n: int)  -> bool: 
     return n % 3 == 0

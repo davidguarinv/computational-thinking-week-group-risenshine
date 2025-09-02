@@ -1,6 +1,6 @@
 import datetime
 
-def solution_station2(date_str: str) -> str:
+def solution_station_2(date_str: str) -> str:
     japanese_days = {
         0: "月曜日",  # Monday
         1: "火曜日",  # Tuesday
