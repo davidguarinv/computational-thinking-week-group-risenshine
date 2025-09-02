@@ -1,4 +1,3 @@
-
 def solution_station_4(x):
     if x <= 1:
         return False
