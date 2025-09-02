@@ -12,7 +12,7 @@ def act1():
 
 def act2():
     return (
-        "Elliot suddenly gasped, knocking over his notebook. "
+        "Oliver barked furiously, Jace jumped back in surprise, Marcus dropped his bread bag, Tessa gasped and scribbled notes, and Lila grabbed Elliot’s arm to steady him. The six stood frozen as the tower itself seemed to come alive. Elliot suddenly gasped, knocking over his notebook. "
         "“Th-the gears… they’re moving!” he stammered. "
         "The tower clock’s inner mechanisms started turning by themselves, whirling with a strange, ethereal glow. "
         "Oliver barked frantically, jumping back from the spinning gears."
