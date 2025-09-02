@@ -2,7 +2,7 @@ def name():
     return "Pija"
 
 def act1():
-    return "Lila, a curios teen, steped into the old town for the frist time, her eyes wide with wondr. She had herd storis of the clocktower that never tolled on tiem. Beside her, her brother Jace was allreddy skeptical, muttering about wasted time."
+    return "All six gathered at the town’s edge that morning: Lila, eager and wide-eyed, Jace, already skeptical, Marcus with his flour-dusted hands, Tessa with her notes, Elliot scribbling nervously from a corner, and Oliver circling at their feet. Each seemed to carry a piece of the mystery without knowing it. Lila, a curios teen, steped into the old town for the frist time, her eyes wide with wondr. She had herd storis of the clocktower that never tolled on tiem. Beside her, her brother Jace was allreddy skeptical, muttering about wasted time."
 
 def act2():
     return "Inside the tower, the wooden stairs creaked under thier weight, each step echoeing through the emptie halls. Lila’s flashlight flickered, casting spooky shaps on the walls. Marcus mumbled about old hauntings, making Jace scff loudly."
