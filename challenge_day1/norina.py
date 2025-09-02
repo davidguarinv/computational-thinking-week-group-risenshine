@@ -20,7 +20,7 @@ def act2():
 
 def act3():
     return (
-        "Elliot stepped forward, feeling a mix of fear and excitement. "
+        "Marcus shifted uncomfortably, Jace rolled his eyes, Lila pressed closer, Tessa mouthed the words with awe, and Oliver pawed at Elliot’s leg to urge him forward. Their fates now seemed linked. Elliot stepped forward, feeling a mix of fear and excitement. "
         "“The stories… they’re true. We can fix the clock, and maybe…” "
         "He trailed off, unsure if he was dreaming or really seeing it happen. "
         "Oliver barked, tail wagging, sensing their triumph."
