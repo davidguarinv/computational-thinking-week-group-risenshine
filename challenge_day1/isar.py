@@ -1,6 +1,6 @@
 def name():
     return "Isar"
-
+#Elliot
 def act1():
     return "Marcus whispered to Jace about Elliot’s strange obsession with gears, while Tessa scribbled notes and Lila pointed out the tower’s looming shape. Oliver barked sharply, startling them all, as Elliot tucked his notebook closer to his chest. In the distance, a figure watched them silently. Elliot, a young apprentice watchmaker, hid behind a corner, scribbling notes in a small book. He felt uneasy about strangers approaching the clocktower, knowing the stories weren’t just legends."
 
