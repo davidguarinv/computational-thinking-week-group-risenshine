@@ -25,7 +25,6 @@ fn main() -> io::Result<()> {
 
         let parts: Vec<&str> = line.split(',').collect();
 
-        // Calculate evaluation for whatever skill values exist (indices 1..len-1)
         let mut total_score = 0;
         let mut num_skills = 0;
 
@@ -48,7 +47,7 @@ fn main() -> io::Result<()> {
                         total_score += 5;
                         num_skills += 1;
                     }
-                    _ => (), // skip unknown or empty
+                    _ => (), 
                 }
             }
         }
@@ -59,7 +58,7 @@ fn main() -> io::Result<()> {
             0.0
         };
 
-        // Preserve the summary if present, else default to empty string
+
         let summary = if parts.len() > 6 { parts[6] } else { "" };
 
         writeln!(output, "{},{},{}", line, summary, evaluation)?;
