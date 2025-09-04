@@ -1,5 +1,5 @@
 import java.nio.file.{Files, Paths}
-import scala.util.Using
+import scala.util.{Try, Using}
 
 object Main {
   def main(args: Array[String]): Unit = {
@@ -16,7 +16,7 @@ object Main {
         if (parts.length < 9) line // skip invalid lines
         else {
           val summary = parts(7).trim
-          val evaluation = Try(parts(8).toFloat).getOrElse(0f)
+          val evaluation: Float = Try(parts(8).toFloat).getOrElse(0f)
 
           val comments = (summary, evaluation) match {
             case ("super", e) if e >= 3 => "Excellent"
